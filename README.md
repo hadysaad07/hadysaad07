@@ -1,15 +1,25 @@
 # Hi, I'm Hady 👋
 
-I'm an AI student at Deggendorf Institute of Technology in Germany.
+I'm an Artificial Intelligence student at Deggendorf Institute of Technology (DIT), Germany.
 
-I'm learning C++ and algorithms, and exploring cybersecurity. My goal is to become a penetration tester.
+I'm building a strong foundation in computer science and working toward a career in penetration testing.
 
 ## Currently Learning
-
-- C++ fundamentals and problem solving
+- C++ and problem solving
+- Algorithms and data structures
 - Git and GitHub
+- Linux and computer networking
 - Cybersecurity and ethical penetration testing
 
-## What you'll find here
+## What I'm Working On
+- Practicing programming fundamentals
+- Building small projects and documenting my progress
+- Developing practical IT and security skills through authorized labs
 
-This profile will grow as I share learning notes and projects.
+## Goals
+- Build strong programming and problem-solving skills
+- Develop practical IT support and networking knowledge
+- Progress toward junior penetration testing
+
+## Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/hady-saad-294560296/)
